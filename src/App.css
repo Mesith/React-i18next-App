@@ -24,6 +24,24 @@
   color: white;
 }
 
+.Feild label {
+  width: 400px;
+  display: flex;
+  padding: 10px;
+}
+
+.Feild input {
+  width: 400px;
+  display: flex;
+  padding: 10px;
+}
+
+.App-header > input {
+  width: 400px;
+  height: 40px;
+  margin-top: 10px;
+}
+
 .App-link {
   color: #61dafb;
 }
